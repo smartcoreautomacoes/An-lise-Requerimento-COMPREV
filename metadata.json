@@ -1,0 +1,5 @@
+{
+  "name": "Análise Requerimentos Base COMPREV",
+  "description": "Minimalist tool to filter and cross-reference Excel datasets based on CPF matching and recipient criteria.",
+  "requestFramePermissions": []
+}
